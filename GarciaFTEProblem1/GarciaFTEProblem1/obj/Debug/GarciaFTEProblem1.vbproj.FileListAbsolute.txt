@@ -1,0 +1,12 @@
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\bin\Debug\GarciaFTEProblem1.exe.config
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\bin\Debug\GarciaFTEProblem1.exe
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\bin\Debug\GarciaFTEProblem1.pdb
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\bin\Debug\GarciaFTEProblem1.xml
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\obj\Debug\GarciaFTEProblem1.vbproj.AssemblyReference.cache
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\obj\Debug\GarciaFTEProblem1.Form1.resources
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\obj\Debug\GarciaFTEProblem1.Resources.resources
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\obj\Debug\GarciaFTEProblem1.vbproj.GenerateResource.cache
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\obj\Debug\GarciaFTEProblem1.vbproj.CoreCompileInputs.cache
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\obj\Debug\GarciaFTEProblem1.exe
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\obj\Debug\GarciaFTEProblem1.xml
+C:\Users\kingivangarcia\source\repos\GarciaFTEProblem1\GarciaFTEProblem1\obj\Debug\GarciaFTEProblem1.pdb
